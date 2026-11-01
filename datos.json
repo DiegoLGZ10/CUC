@@ -1,5 +1,5 @@
 {
- "actualizado": "31/10/2026",
+ "actualizado": "01/11/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -196,12 +196,12 @@
       },
       {
        "equipo": "olimar",
-       "pj": 20,
+       "pj": 21,
        "g": 7,
        "e": 3,
-       "p": 10,
-       "gf": 27,
-       "gc": 30
+       "p": 11,
+       "gf": 28,
+       "gc": 32
       },
       {
        "equipo": "independiente",
@@ -211,6 +211,15 @@
        "p": 6,
        "gf": 27,
        "gc": 35
+      },
+      {
+       "equipo": "centrocristoba",
+       "pj": 21,
+       "g": 6,
+       "e": 5,
+       "p": 10,
+       "gf": 33,
+       "gc": 44
       },
       {
        "equipo": "sanjuanbautist",
@@ -229,15 +238,6 @@
        "p": 11,
        "gf": 23,
        "gc": 41
-      },
-      {
-       "equipo": "centrocristoba",
-       "pj": 20,
-       "g": 5,
-       "e": 5,
-       "p": 10,
-       "gf": 31,
-       "gc": 43
       },
       {
        "equipo": "cuc",
