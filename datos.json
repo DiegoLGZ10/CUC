@@ -680,12 +680,12 @@
      "tabla": [
       {
        "equipo": "circulodetenis",
-       "pj": 19,
+       "pj": 20,
        "g": 6,
        "e": 7,
-       "p": 6,
-       "gf": 25,
-       "gc": 25
+       "p": 7,
+       "gf": 26,
+       "gc": 28
       },
       {
        "equipo": "colegiosantael",
@@ -698,21 +698,30 @@
       },
       {
        "equipo": "cuc",
-       "pj": 19,
+       "pj": 20,
        "g": 6,
-       "e": 5,
+       "e": 6,
        "p": 8,
-       "gf": 22,
-       "gc": 29
+       "gf": 23,
+       "gc": 30
       },
       {
        "equipo": "oldivy",
-       "pj": 19,
+       "pj": 20,
        "g": 6,
-       "e": 3,
+       "e": 4,
        "p": 10,
-       "gf": 21,
-       "gc": 27
+       "gf": 22,
+       "gc": 28
+      },
+      {
+       "equipo": "santaelenalago",
+       "pj": 20,
+       "g": 5,
+       "e": 7,
+       "p": 8,
+       "gf": 24,
+       "gc": 35
       },
       {
        "equipo": "sanjuanbautist",
@@ -731,15 +740,6 @@
        "p": 11,
        "gf": 25,
        "gc": 32
-      },
-      {
-       "equipo": "santaelenalago",
-       "pj": 19,
-       "g": 4,
-       "e": 7,
-       "p": 8,
-       "gf": 21,
-       "gc": 34
       },
       {
        "equipo": "crandonunivers",
@@ -962,7 +962,9 @@
      "hora": "11:15",
      "rival": "oldivy",
      "condicion": "L",
-     "cancha": "Complejo CUC"
+     "cancha": "Complejo CUC",
+     "gf": 1,
+     "gc": 1
     },
     {
      "fecha": 6,
@@ -1182,6 +1184,15 @@
        "gc": 7
       },
       {
+       "equipo": "varelauniversi",
+       "pj": 8,
+       "g": 5,
+       "e": 1,
+       "p": 2,
+       "gf": 16,
+       "gc": 12
+      },
+      {
        "equipo": "yaguari",
        "pj": 7,
        "g": 4,
@@ -1200,22 +1211,22 @@
        "gc": 5
       },
       {
-       "equipo": "varelauniversi",
-       "pj": 7,
-       "g": 4,
-       "e": 1,
-       "p": 2,
-       "gf": 13,
-       "gc": 10
-      },
-      {
        "equipo": "trouvilleunive",
-       "pj": 7,
+       "pj": 8,
        "g": 2,
        "e": 3,
-       "p": 2,
+       "p": 3,
        "gf": 7,
-       "gc": 5
+       "gc": 7
+      },
+      {
+       "equipo": "latinofutbolcl",
+       "pj": 8,
+       "g": 2,
+       "e": 3,
+       "p": 3,
+       "gf": 16,
+       "gc": 17
       },
       {
        "equipo": "clubatleticoli",
@@ -1245,22 +1256,13 @@
        "gc": 15
       },
       {
-       "equipo": "latinofutbolcl",
-       "pj": 7,
-       "g": 1,
-       "e": 3,
-       "p": 3,
-       "gf": 14,
-       "gc": 17
-      },
-      {
        "equipo": "clubfuerzaaere",
-       "pj": 7,
+       "pj": 8,
        "g": 2,
        "e": 0,
-       "p": 5,
-       "gf": 3,
-       "gc": 9
+       "p": 6,
+       "gf": 5,
+       "gc": 12
       },
       {
        "equipo": "nuestraseorade",
