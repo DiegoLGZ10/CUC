@@ -187,12 +187,21 @@
       },
       {
        "equipo": "clubjesusmaria",
-       "pj": 20,
-       "g": 7,
+       "pj": 21,
+       "g": 8,
        "e": 4,
        "p": 9,
-       "gf": 28,
-       "gc": 32
+       "gf": 31,
+       "gc": 33
+      },
+      {
+       "equipo": "sanjuanbautist",
+       "pj": 21,
+       "g": 7,
+       "e": 4,
+       "p": 10,
+       "gf": 30,
+       "gc": 36
       },
       {
        "equipo": "olimar",
@@ -205,12 +214,12 @@
       },
       {
        "equipo": "independiente",
-       "pj": 20,
+       "pj": 21,
        "g": 5,
        "e": 9,
-       "p": 6,
-       "gf": 27,
-       "gc": 35
+       "p": 7,
+       "gf": 28,
+       "gc": 38
       },
       {
        "equipo": "centrocristoba",
@@ -222,22 +231,13 @@
        "gc": 44
       },
       {
-       "equipo": "sanjuanbautist",
-       "pj": 20,
-       "g": 6,
-       "e": 4,
-       "p": 10,
-       "gf": 27,
-       "gc": 35
-      },
-      {
        "equipo": "citypark",
-       "pj": 20,
+       "pj": 21,
        "g": 6,
        "e": 3,
-       "p": 11,
-       "gf": 23,
-       "gc": 41
+       "p": 12,
+       "gf": 24,
+       "gc": 44
       },
       {
        "equipo": "cuc",
