@@ -1,5 +1,5 @@
 {
- "actualizado": "01/11/2026",
+ "actualizado": "03/11/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -658,10 +658,6 @@
     {
      "nombre": "Mateo Nuñez",
      "goles": 7
-    },
-    {
-     "nombre": "Gaston Sanchez",
-     "goles": 4
     }
    ]
   },
@@ -1153,7 +1149,7 @@
    "goleadores": [
     {
      "nombre": "Pablo Mari",
-     "goles": 7
+     "goles": 8
     },
     {
      "nombre": "Guillermo Andres Rebollo",
@@ -1184,6 +1180,15 @@
        "gc": 7
       },
       {
+       "equipo": "yaguari",
+       "pj": 8,
+       "g": 5,
+       "e": 2,
+       "p": 1,
+       "gf": 17,
+       "gc": 9
+      },
+      {
        "equipo": "varelauniversi",
        "pj": 8,
        "g": 5,
@@ -1191,15 +1196,6 @@
        "p": 2,
        "gf": 16,
        "gc": 12
-      },
-      {
-       "equipo": "yaguari",
-       "pj": 7,
-       "g": 4,
-       "e": 2,
-       "p": 1,
-       "gf": 15,
-       "gc": 8
       },
       {
        "equipo": "cuc",
@@ -1216,7 +1212,7 @@
        "g": 2,
        "e": 3,
        "p": 3,
-       "gf": 7,
+       "gf": 8,
        "gc": 7
       },
       {
@@ -1226,16 +1222,16 @@
        "e": 3,
        "p": 3,
        "gf": 16,
-       "gc": 17
+       "gc": 18
       },
       {
        "equipo": "clubatleticoli",
-       "pj": 7,
+       "pj": 8,
        "g": 3,
        "e": 0,
-       "p": 4,
-       "gf": 12,
-       "gc": 15
+       "p": 5,
+       "gf": 13,
+       "gc": 17
       },
       {
        "equipo": "sanjosedelapro",
@@ -1627,12 +1623,12 @@
      "goles": 6
     },
     {
-     "nombre": "Matias Duhalde",
+     "nombre": "Conrado Diaz",
      "goles": 3
     },
     {
-     "nombre": "Conrado Diaz",
-     "goles": 2
+     "nombre": "Matias Duhalde",
+     "goles": 3
     },
     {
      "nombre": "Renato Olivera",
