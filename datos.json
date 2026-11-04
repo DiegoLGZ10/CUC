@@ -1,5 +1,5 @@
 {
- "actualizado": "03/11/2026",
+ "actualizado": "04/11/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -478,11 +478,11 @@
     {
      "fecha": 7,
      "ronda": "Permanencia",
-     "dia": "2026-11-08",
-     "hora": "",
+     "dia": "2026-11-04",
+     "hora": "21:00",
      "rival": "clubjesusmaria",
      "condicion": "L",
-     "cancha": "A confirmar"
+     "cancha": "Complejo Los Cardales"
     },
     {
      "fecha": 1,
