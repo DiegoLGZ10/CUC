@@ -1,5 +1,5 @@
 {
- "actualizado": "04/11/2026",
+ "actualizado": "05/11/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -187,12 +187,12 @@
       },
       {
        "equipo": "clubjesusmaria",
-       "pj": 21,
+       "pj": 22,
        "g": 8,
        "e": 4,
-       "p": 9,
-       "gf": 31,
-       "gc": 33
+       "p": 10,
+       "gf": 33,
+       "gc": 36
       },
       {
        "equipo": "sanjuanbautist",
@@ -241,12 +241,12 @@
       },
       {
        "equipo": "cuc",
-       "pj": 21,
-       "g": 4,
+       "pj": 22,
+       "g": 5,
        "e": 1,
        "p": 16,
-       "gf": 29,
-       "gc": 50
+       "gf": 32,
+       "gc": 52
       }
      ]
     },
@@ -482,7 +482,9 @@
      "hora": "21:00",
      "rival": "clubjesusmaria",
      "condicion": "L",
-     "cancha": "Complejo Los Cardales"
+     "cancha": "Complejo Los Cardales",
+     "gf": 3,
+     "gc": 2
     },
     {
      "fecha": 1,
