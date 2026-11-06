@@ -1,5 +1,5 @@
 {
- "actualizado": "05/11/2026",
+ "actualizado": "06/11/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -660,6 +660,10 @@
     {
      "nombre": "Mateo Nuñez",
      "goles": 7
+    },
+    {
+     "nombre": "Gaston Sanchez",
+     "goles": 6
     }
    ]
   },
