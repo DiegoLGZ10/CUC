@@ -1,5 +1,5 @@
 {
- "actualizado": "06/11/2026",
+ "actualizado": "07/11/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -1213,6 +1213,24 @@
        "gc": 5
       },
       {
+       "equipo": "sancono",
+       "pj": 9,
+       "g": 3,
+       "e": 2,
+       "p": 4,
+       "gf": 10,
+       "gc": 15
+      },
+      {
+       "equipo": "clubatleticoli",
+       "pj": 9,
+       "g": 3,
+       "e": 1,
+       "p": 5,
+       "gf": 14,
+       "gc": 18
+      },
+      {
        "equipo": "trouvilleunive",
        "pj": 8,
        "g": 2,
@@ -1223,21 +1241,12 @@
       },
       {
        "equipo": "latinofutbolcl",
-       "pj": 8,
+       "pj": 9,
        "g": 2,
        "e": 3,
-       "p": 3,
+       "p": 4,
        "gf": 16,
-       "gc": 18
-      },
-      {
-       "equipo": "clubatleticoli",
-       "pj": 8,
-       "g": 3,
-       "e": 0,
-       "p": 5,
-       "gf": 13,
-       "gc": 17
+       "gc": 19
       },
       {
        "equipo": "sanjosedelapro",
@@ -1246,15 +1255,6 @@
        "e": 2,
        "p": 5,
        "gf": 10,
-       "gc": 15
-      },
-      {
-       "equipo": "sancono",
-       "pj": 8,
-       "g": 2,
-       "e": 2,
-       "p": 4,
-       "gf": 9,
        "gc": 15
       },
       {
@@ -1268,12 +1268,12 @@
       },
       {
        "equipo": "nuestraseorade",
-       "pj": 8,
+       "pj": 9,
        "g": 0,
-       "e": 4,
+       "e": 5,
        "p": 4,
-       "gf": 6,
-       "gc": 14
+       "gf": 7,
+       "gc": 15
       }
      ]
     },
