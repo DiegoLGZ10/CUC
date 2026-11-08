@@ -682,12 +682,12 @@
      "tabla": [
       {
        "equipo": "circulodetenis",
-       "pj": 20,
+       "pj": 21,
        "g": 6,
-       "e": 7,
+       "e": 8,
        "p": 7,
-       "gf": 26,
-       "gc": 28
+       "gf": 28,
+       "gc": 30
       },
       {
        "equipo": "colegiosantael",
@@ -735,6 +735,15 @@
        "gc": 28
       },
       {
+       "equipo": "crandonunivers",
+       "pj": 21,
+       "g": 5,
+       "e": 5,
+       "p": 11,
+       "gf": 21,
+       "gc": 44
+      },
+      {
        "equipo": "juanxxiii",
        "pj": 20,
        "g": 5,
@@ -742,15 +751,6 @@
        "p": 11,
        "gf": 25,
        "gc": 32
-      },
-      {
-       "equipo": "crandonunivers",
-       "pj": 20,
-       "g": 5,
-       "e": 4,
-       "p": 11,
-       "gf": 19,
-       "gc": 42
       }
      ]
     },
@@ -1178,12 +1178,12 @@
      "tabla": [
       {
        "equipo": "angloschooluni",
-       "pj": 9,
+       "pj": 10,
        "g": 8,
        "e": 1,
-       "p": 0,
+       "p": 1,
        "gf": 22,
-       "gc": 7
+       "gc": 9
       },
       {
        "equipo": "yaguari",
@@ -1213,6 +1213,15 @@
        "gc": 5
       },
       {
+       "equipo": "trouvilleunive",
+       "pj": 9,
+       "g": 3,
+       "e": 3,
+       "p": 3,
+       "gf": 10,
+       "gc": 7
+      },
+      {
        "equipo": "sancono",
        "pj": 9,
        "g": 3,
@@ -1229,15 +1238,6 @@
        "p": 5,
        "gf": 14,
        "gc": 18
-      },
-      {
-       "equipo": "trouvilleunive",
-       "pj": 8,
-       "g": 2,
-       "e": 3,
-       "p": 3,
-       "gf": 8,
-       "gc": 7
       },
       {
        "equipo": "latinofutbolcl",
