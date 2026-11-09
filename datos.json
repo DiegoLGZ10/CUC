@@ -1,5 +1,5 @@
 {
- "actualizado": "07/11/2026",
+ "actualizado": "08/11/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -196,39 +196,39 @@
       },
       {
        "equipo": "sanjuanbautist",
-       "pj": 21,
+       "pj": 22,
        "g": 7,
-       "e": 4,
+       "e": 5,
        "p": 10,
-       "gf": 30,
-       "gc": 36
+       "gf": 31,
+       "gc": 37
       },
       {
        "equipo": "olimar",
-       "pj": 21,
+       "pj": 22,
        "g": 7,
-       "e": 3,
+       "e": 4,
        "p": 11,
-       "gf": 28,
-       "gc": 32
+       "gf": 29,
+       "gc": 33
       },
       {
        "equipo": "independiente",
-       "pj": 21,
+       "pj": 22,
        "g": 5,
-       "e": 9,
+       "e": 10,
        "p": 7,
-       "gf": 28,
-       "gc": 38
+       "gf": 29,
+       "gc": 39
       },
       {
        "equipo": "centrocristoba",
-       "pj": 21,
+       "pj": 22,
        "g": 6,
-       "e": 5,
+       "e": 6,
        "p": 10,
-       "gf": 33,
-       "gc": 44
+       "gf": 34,
+       "gc": 45
       },
       {
        "equipo": "citypark",
@@ -681,6 +681,15 @@
      "acumula": true,
      "tabla": [
       {
+       "equipo": "colegiosantael",
+       "pj": 21,
+       "g": 7,
+       "e": 6,
+       "p": 8,
+       "gf": 27,
+       "gc": 33
+      },
+      {
        "equipo": "circulodetenis",
        "pj": 21,
        "g": 6,
@@ -688,15 +697,6 @@
        "p": 7,
        "gf": 28,
        "gc": 30
-      },
-      {
-       "equipo": "colegiosantael",
-       "pj": 20,
-       "g": 6,
-       "e": 6,
-       "p": 8,
-       "gf": 26,
-       "gc": 33
       },
       {
        "equipo": "cuc",
@@ -745,12 +745,12 @@
       },
       {
        "equipo": "juanxxiii",
-       "pj": 20,
+       "pj": 21,
        "g": 5,
        "e": 4,
-       "p": 11,
+       "p": 12,
        "gf": 25,
-       "gc": 32
+       "gc": 33
       }
      ]
     },
