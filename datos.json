@@ -1,5 +1,5 @@
 {
- "actualizado": "08/11/2026",
+ "actualizado": "09/11/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -700,12 +700,12 @@
       },
       {
        "equipo": "cuc",
-       "pj": 20,
+       "pj": 21,
        "g": 6,
-       "e": 6,
+       "e": 7,
        "p": 8,
-       "gf": 23,
-       "gc": 30
+       "gf": 25,
+       "gc": 32
       },
       {
        "equipo": "oldivy",
@@ -727,12 +727,12 @@
       },
       {
        "equipo": "sanjuanbautist",
-       "pj": 20,
+       "pj": 21,
        "g": 6,
-       "e": 2,
+       "e": 3,
        "p": 12,
-       "gf": 26,
-       "gc": 28
+       "gf": 28,
+       "gc": 30
       },
       {
        "equipo": "crandonunivers",
@@ -975,7 +975,9 @@
      "hora": "11:15",
      "rival": "sanjuanbautist",
      "condicion": "V",
-     "cancha": "Campo Dep. San Juan Bautista"
+     "cancha": "Campo Dep. San Juan Bautista",
+     "gf": 2,
+     "gc": 2
     },
     {
      "fecha": 7,
@@ -1186,6 +1188,15 @@
        "gc": 9
       },
       {
+       "equipo": "cuc",
+       "pj": 9,
+       "g": 5,
+       "e": 2,
+       "p": 2,
+       "gf": 14,
+       "gc": 5
+      },
+      {
        "equipo": "yaguari",
        "pj": 8,
        "g": 5,
@@ -1202,15 +1213,6 @@
        "p": 2,
        "gf": 16,
        "gc": 12
-      },
-      {
-       "equipo": "cuc",
-       "pj": 8,
-       "g": 4,
-       "e": 2,
-       "p": 2,
-       "gf": 9,
-       "gc": 5
       },
       {
        "equipo": "trouvilleunive",
@@ -1259,12 +1261,12 @@
       },
       {
        "equipo": "clubfuerzaaere",
-       "pj": 8,
+       "pj": 9,
        "g": 2,
        "e": 0,
-       "p": 6,
+       "p": 7,
        "gf": 5,
-       "gc": 12
+       "gc": 17
       },
       {
        "equipo": "nuestraseorade",
@@ -1490,7 +1492,9 @@
      "hora": "11:15",
      "rival": "clubfuerzaaere",
      "condicion": "V",
-     "cancha": "Fuerza Aérea"
+     "cancha": "Fuerza Aérea",
+     "gf": 5,
+     "gc": 0
     },
     {
      "fecha": 11,
