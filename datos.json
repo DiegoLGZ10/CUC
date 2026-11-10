@@ -972,7 +972,7 @@
      "fecha": 6,
      "ronda": "Permanencia",
      "dia": "2026-11-07",
-     "hora": "11:15",
+     "hora": "12:00",
      "rival": "sanjuanbautist",
      "condicion": "V",
      "cancha": "Campo Dep. San Juan Bautista",
@@ -1161,7 +1161,7 @@
     },
     {
      "nombre": "Guillermo Andres Rebollo",
-     "goles": 6
+     "goles": 7
     }
    ]
   },
@@ -1188,6 +1188,15 @@
        "gc": 9
       },
       {
+       "equipo": "yaguari",
+       "pj": 9,
+       "g": 5,
+       "e": 3,
+       "p": 1,
+       "gf": 18,
+       "gc": 10
+      },
+      {
        "equipo": "cuc",
        "pj": 9,
        "g": 5,
@@ -1197,22 +1206,13 @@
        "gc": 5
       },
       {
-       "equipo": "yaguari",
-       "pj": 8,
+       "equipo": "varelauniversi",
+       "pj": 9,
        "g": 5,
        "e": 2,
-       "p": 1,
-       "gf": 17,
-       "gc": 9
-      },
-      {
-       "equipo": "varelauniversi",
-       "pj": 8,
-       "g": 5,
-       "e": 1,
        "p": 2,
-       "gf": 16,
-       "gc": 12
+       "gf": 17,
+       "gc": 13
       },
       {
        "equipo": "trouvilleunive",
@@ -1492,7 +1492,7 @@
      "hora": "11:15",
      "rival": "clubfuerzaaere",
      "condicion": "V",
-     "cancha": "Fuerza Aérea",
+     "cancha": "()",
      "gf": 5,
      "gc": 0
     },
@@ -1630,23 +1630,15 @@
    "goleadores": [
     {
      "nombre": "Octavio Alvez",
-     "goles": 6
+     "goles": 8
     },
     {
      "nombre": "Conrado Diaz",
-     "goles": 3
+     "goles": 6
     },
     {
      "nombre": "Matias Duhalde",
      "goles": 3
-    },
-    {
-     "nombre": "Renato Olivera",
-     "goles": 1
-    },
-    {
-     "nombre": "Valentino Bartaburu",
-     "goles": 1
     },
     {
      "nombre": "Franco Ezequiel Martinez",
@@ -1661,7 +1653,15 @@
      "goles": 1
     },
     {
+     "nombre": "Valentino Bartaburu",
+     "goles": 1
+    },
+    {
      "nombre": "Brayan Maximiliano Galarza",
+     "goles": 1
+    },
+    {
+     "nombre": "Renato Olivera",
      "goles": 1
     }
    ]
