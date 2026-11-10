@@ -1,5 +1,5 @@
 {
- "actualizado": "09/11/2026",
+ "actualizado": "10/11/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -699,6 +699,15 @@
        "gc": 30
       },
       {
+       "equipo": "oldivy",
+       "pj": 21,
+       "g": 7,
+       "e": 4,
+       "p": 10,
+       "gf": 23,
+       "gc": 28
+      },
+      {
        "equipo": "cuc",
        "pj": 21,
        "g": 6,
@@ -708,22 +717,13 @@
        "gc": 32
       },
       {
-       "equipo": "oldivy",
-       "pj": 20,
-       "g": 6,
-       "e": 4,
-       "p": 10,
-       "gf": 22,
-       "gc": 28
-      },
-      {
        "equipo": "santaelenalago",
-       "pj": 20,
+       "pj": 21,
        "g": 5,
        "e": 7,
-       "p": 8,
+       "p": 9,
        "gf": 24,
-       "gc": 35
+       "gc": 36
       },
       {
        "equipo": "sanjuanbautist",
