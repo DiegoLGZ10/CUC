@@ -1215,6 +1215,15 @@
        "gc": 13
       },
       {
+       "equipo": "clubatleticoli",
+       "pj": 10,
+       "g": 4,
+       "e": 1,
+       "p": 5,
+       "gf": 18,
+       "gc": 20
+      },
+      {
        "equipo": "trouvilleunive",
        "pj": 9,
        "g": 3,
@@ -1233,15 +1242,6 @@
        "gc": 15
       },
       {
-       "equipo": "clubatleticoli",
-       "pj": 9,
-       "g": 3,
-       "e": 1,
-       "p": 5,
-       "gf": 14,
-       "gc": 18
-      },
-      {
        "equipo": "latinofutbolcl",
        "pj": 9,
        "g": 2,
@@ -1252,12 +1252,12 @@
       },
       {
        "equipo": "sanjosedelapro",
-       "pj": 9,
+       "pj": 10,
        "g": 2,
        "e": 2,
-       "p": 5,
-       "gf": 10,
-       "gc": 15
+       "p": 6,
+       "gf": 12,
+       "gc": 19
       },
       {
        "equipo": "clubfuerzaaere",
@@ -1639,30 +1639,6 @@
     {
      "nombre": "Matias Duhalde",
      "goles": 3
-    },
-    {
-     "nombre": "Franco Ezequiel Martinez",
-     "goles": 1
-    },
-    {
-     "nombre": "Axel Nahuel Castaño",
-     "goles": 1
-    },
-    {
-     "nombre": "Luciano Nicolas Buzon",
-     "goles": 1
-    },
-    {
-     "nombre": "Valentino Bartaburu",
-     "goles": 1
-    },
-    {
-     "nombre": "Brayan Maximiliano Galarza",
-     "goles": 1
-    },
-    {
-     "nombre": "Renato Olivera",
-     "goles": 1
     }
    ]
   }
