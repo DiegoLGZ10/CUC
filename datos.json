@@ -1,5 +1,5 @@
 {
- "actualizado": "10/11/2026",
+ "actualizado": "13/11/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -682,21 +682,21 @@
      "tabla": [
       {
        "equipo": "colegiosantael",
-       "pj": 21,
-       "g": 7,
+       "pj": 22,
+       "g": 8,
        "e": 6,
        "p": 8,
-       "gf": 27,
-       "gc": 33
+       "gf": 29,
+       "gc": 34
       },
       {
        "equipo": "circulodetenis",
-       "pj": 21,
+       "pj": 22,
        "g": 6,
        "e": 8,
-       "p": 7,
-       "gf": 28,
-       "gc": 30
+       "p": 8,
+       "gf": 29,
+       "gc": 32
       },
       {
        "equipo": "oldivy",
