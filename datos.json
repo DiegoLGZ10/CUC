@@ -1,5 +1,5 @@
 {
- "actualizado": "13/11/2026",
+ "actualizado": "14/11/2026",
  "equipos": {
   "cuc": {
    "nombre": "Universidad Católica",
@@ -1189,21 +1189,21 @@
       },
       {
        "equipo": "yaguari",
-       "pj": 9,
+       "pj": 10,
        "g": 5,
-       "e": 3,
+       "e": 4,
        "p": 1,
-       "gf": 18,
-       "gc": 10
+       "gf": 19,
+       "gc": 11
       },
       {
        "equipo": "cuc",
-       "pj": 9,
+       "pj": 10,
        "g": 5,
-       "e": 2,
+       "e": 3,
        "p": 2,
-       "gf": 14,
-       "gc": 5
+       "gf": 15,
+       "gc": 6
       },
       {
        "equipo": "varelauniversi",
@@ -1503,7 +1503,9 @@
      "hora": "09:00",
      "rival": "yaguari",
      "condicion": "L",
-     "cancha": "Complejo CUC"
+     "cancha": "Complejo CUC",
+     "gf": 1,
+     "gc": 1
     },
     {
      "fecha": 1,
